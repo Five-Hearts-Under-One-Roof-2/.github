@@ -49,9 +49,9 @@ A free demo covering the full **Chapter 1** of the game is available on Steam. I
 
 ![Gameplay Screenshot 1](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/259603bcc51c7b626a4d049908c3c06805a60e0e/ss_259603bcc51c7b626a4d049908c3c06805a60e0e.1920x1080.jpg)
 
-![Gameplay Screenshot 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/259603bcc51c7b626a4d049908c3c06805a60e0e/ss_259603bcc51c7b626a4d049908c3c06805a60e0e.1920x1080.jpg)
+![Gameplay Screenshot 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/7d31d2b78b8a7eceb9a1e883c99ffcfd0e1cdbfc/ss_7d31d2b78b8a7eceb9a1e883c99ffcfd0e1cdbfc.1920x1080.jpg)
 
-![Gameplay Screenshot 3](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/7d31d2b78b8a7eceb9a1e883c99ffcfd0e1cdbfc/ss_7d31d2b78b8a7eceb9a1e883c99ffcfd0e1cdbfc.1920x1080.jpg)
+![Gameplay Screenshot 3](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/ff37ab317cd3e8707a6f6be082e4b325b57d433a/ss_ff37ab317cd3e8707a6f6be082e4b325b57d433a.1920x1080.jpg)
 
 ## 🔗 Official Links
 
