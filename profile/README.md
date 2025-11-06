@@ -33,17 +33,17 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 ### Official Website
 Get the game directly from our official website for the best experience and fastest access.
 
-**Download Game:** [Five Hearts Under One Roof 2 Official Website](https://fiveheartsunderoneroof2.com)
+**Download Here:** [Five Hearts Under One Roof 2 Official Website](https://fiveheartsunderoneroof2.com)
 
 ### Free Demo on Steam
 Try the complete **Chapter 1** for free on Steam. Perfect for experiencing the story and core gameplay mechanics before getting the full version.
 
-**Download Demo:** [Five Hearts Under One Roof 2 Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+**Try the Demo:** [Five Hearts Under One Roof 2 Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
 ### Full Version on Steam
 Purchase the complete game with all chapters and features directly from the Steam platform.
 
-**Get Full Version:** [Five Hearts Under One Roof 2 on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+**Buy Now on Steam:** [Five Hearts Under One Roof 2 on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
 ## ⚙️ System Requirements
 
@@ -67,4 +67,4 @@ Purchase the complete game with all chapters and features directly from the Stea
 ## 🔗 Official Links
 
 - **🌐 Official Website:** [Five Hearts Under One Roof 2](https://fiveheartsunderoneroof2.com/)
-- **🎮 Steam Store Page:** [Add to your wishlist here](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+- **🎮 Steam Store Page:** [Five Hearts Under One Roof 2 on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
