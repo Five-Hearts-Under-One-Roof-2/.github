@@ -66,5 +66,5 @@ Purchase the complete game with all chapters and features directly from the Stea
 
 ## 🔗 Official Links
 
-- **🌐 Official Website:** [Five Hearts Under One Roof 2](https://fiveheartsunderoneroof2.com/)
-- **🎮 Steam Store Page:** [Five Hearts Under One Roof 2](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+- **🌐 Official Website:** [Visit the Official Website](https://fiveheartsunderoneroof2.com/)
+- **🎮 Steam Store Page:** [View on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
