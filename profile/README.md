@@ -5,7 +5,7 @@
 
 ## 📖 Game Description
 
-**Five Hearts Under One Roof 2** is the highly anticipated sequel to the popular FMV (Full-Motion Video) romance simulation game. Step back into the shoes of Yuman and take on the role of a boarding house owner, where past memories and new emotions collide. Manage your relationships with six charming heroines—three returning favorites and three new faces—and shape your unique love story through the choices you make.
+Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a wealthy heiress, a girl burdened by childhood scars, and a sweet nurse move in. In this house of old memories and new emotions, who will you fall in love with?
 
 ## ✨ Key Features
 
