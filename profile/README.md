@@ -1,6 +1,6 @@
 # Five Hearts Under One Roof 2 (Season 2)
 
-![Five Hearts Under One Roof 2](https://i.ibb.co/sB3VjXh/header-imgupscaler-ai-V2-Pro-2-K.png)
+![Five Hearts Under One Roof 2](https://raw.githubusercontent.com/raboldin/fivehearts/refs/heads/main/header_imgupscaler.ai_V2(Pro)_2K.png)
 
 ## 📖 Game Description
 
