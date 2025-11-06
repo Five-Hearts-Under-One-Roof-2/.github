@@ -47,13 +47,13 @@ A free demo covering the full **Chapter 1** of the game is available on Steam. I
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot 1](https://via.placeholder.com/800x450/3498db/FFFFFF?text=Gameplay+Screenshot+1)
+![Gameplay Screenshot 1](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/259603bcc51c7b626a4d049908c3c06805a60e0e/ss_259603bcc51c7b626a4d049908c3c06805a60e0e.1920x1080.jpg)
 *Caption: Immersive first-person perspective*
 
-![Gameplay Screenshot 2](https://via.placeholder.com/800x450/e74c3c/FFFFFF?text=Gameplay+Screenshot+2)
+![Gameplay Screenshot 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/259603bcc51c7b626a4d049908c3c06805a60e0e/ss_259603bcc51c7b626a4d049908c3c06805a60e0e.1920x1080.jpg)
 *Caption: Interactive dialogue choices*
 
-![Gameplay Screenshot 3](https://via.placeholder.com/800x450/2ecc71/FFFFFF?text=Gameplay+Screenshot+3)
+![Gameplay Screenshot 3](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3731020/7d31d2b78b8a7eceb9a1e883c99ffcfd0e1cdbfc/ss_7d31d2b78b8a7eceb9a1e883c99ffcfd0e1cdbfc.1920x1080.jpg)
 *Caption: Character relationship management*
 
 ## 🔗 Official Links
