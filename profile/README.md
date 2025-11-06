@@ -58,38 +58,16 @@ A free demo covering the full **Chapter 1** of the game is available on Steam. I
 
 ## 🔗 Official Links
 
-- **🌐 Official Website:** [Five Hearts Under One Roof](https://fiveheartsunderoneroof.com/)
+- **🌐 Official Website:** [Five Hearts Under One Roof 2](https://fiveheartsunderoneroof2.com/)
 - **🎮 Steam Store Page:** [Add to your wishlist here](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
-- **📱 Publisher Page:** [Storytaco on STOVE Store](https://store.onstove.com/en/games/102149)
-- **🎬 Production Team:** [Milk Film YouTube Channel](https://www.youtube.com/@MilkFilm)
 
 ## 🏆 Developer Information
 
 - **Developer:** Storytaco
 - **Release Date:** November 9, 2025
-- **Platforms:** Steam (PC)
+- **Platforms:** PC
 - **Genre:** Simulation, Casual, Visual Novel, Romance
 - **Mode:** Single-player
-
-## ⚠️ Additional Information
-
-- **Mature Content Description:** The game may contain content such as partial nudity, sexual content, and alcohol use, making it suitable for a mature audience.
-- **Community:** The game's FMV sequences are produced in collaboration with the Korean YouTube channel **Milk Film**.
-- **Language Support:** Expected to support multiple languages including English, Korean, and Simplified Chinese.
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this a direct sequel to the first game?**  
-A: Yes, it continues the story from the first game with returning characters and new heroines.
-
-**Q: When is the expected release date?**  
-A: The game is scheduled for release on November 9, 2025.
-
-**Q: Can I play the demo now?**  
-A: Yes, a free demo covering Chapter 1 is available on Steam.
-
-**Q: Will my choices from the first game carry over?**  
-A: This information will be updated closer to release. Please follow official channels for updates.
 
 ---
 
