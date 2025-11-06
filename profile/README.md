@@ -1,6 +1,6 @@
 # Five Hearts Under One Roof 2
 
-## [Five Hearts Under One Roof 2 💕 Game Now](https://fiveheartsunderoneroof2.com/)
+## [Five Hearts Under One Roof 2 💕 Play Now](https://fiveheartsunderoneroof2.com/)
 ![Five Hearts Under One Roof 2](https://raw.githubusercontent.com/raboldin/fivehearts/refs/heads/main/header_imgupscaler.ai_V2(Pro)_2K.png)
 
 ## 📖 Game Description
