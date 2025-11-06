@@ -7,6 +7,23 @@
 
 Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a wealthy heiress, a girl burdened by childhood scars, and a sweet nurse move in. In this house of old memories and new emotions, who will you fall in love with?
 
+## 🚀 Get the Game
+
+### Official Website
+Get the game directly from our official website for the best experience and fastest access.
+
+**Download Here:** [Visit Official Website](https://fiveheartsunderoneroof2.com)
+
+### Free Demo on Steam
+Try the complete **Chapter 1** for free on Steam. Perfect for experiencing the story and core gameplay mechanics before getting the full version.
+
+**Try for Free:** [Download Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+
+### Full Version on Steam
+Purchase the complete game with all chapters and features directly from the Steam platform.
+
+**Get Full Game:** [Purchase on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+
 ## ✨ Key Features
 
 | Feature | Description |
@@ -27,23 +44,6 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 | **Min-jung Park** | First Love | A former idol turned national sweetheart, who seeks refuge at the boarding house amidst a new scandal. |
 | **Yoo-jung Yang** | Quiet Wallflower | A girl scarred by past bullying, who finds it hard to face people until Yuman enters her life. |
 | **Gyu-ri Bang** | Sweet Nurse | A dedicated nurse for whom Yuman starts to feel less like a patient and more like a man. |
-
-## 🚀 Get the Game
-
-### Official Website
-Get the game directly from our official website for the best experience and fastest access.
-
-**Download Here:** [Visit Official Website](https://fiveheartsunderoneroof2.com)
-
-### Free Demo on Steam
-Try the complete **Chapter 1** for free on Steam. Perfect for experiencing the story and core gameplay mechanics before getting the full version.
-
-**Try for Free:** [Download Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
-
-### Full Version on Steam
-Purchase the complete game with all chapters and features directly from the Steam platform.
-
-**Get Full Game:** [Purchase on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
 ## ⚙️ System Requirements
 
