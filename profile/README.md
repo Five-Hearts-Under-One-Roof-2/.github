@@ -30,7 +30,7 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 
 ## 🎮 Play Now
 
-### Official Website Download (Recommended)
+### Official Website
 Get the game directly from our official website for the best experience and fastest access.
 
 **Download:** [Five Hearts Under One Roof 2 Official Website](https://fiveheartsunderoneroof2.com)
