@@ -3,7 +3,7 @@
 ## [Five Hearts Under One Roof 2 💕 Play Now](https://fiveheartsunderoneroof2.com/)
 ![Five Hearts Under One Roof 2](https://raw.githubusercontent.com/raboldin/fivehearts/refs/heads/main/header_imgupscaler.ai_V2(Pro)_2K.png)
 
-## 📖 Game Description
+## 📖 Description
 
 Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a wealthy heiress, a girl burdened by childhood scars, and a sweet nurse move in. In this house of old memories and new emotions, who will you fall in love with?
 
@@ -28,14 +28,23 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 | **Yoo-jung Yang** | Quiet Wallflower | A girl scarred by past bullying, who finds it hard to face people until Yuman enters her life. |
 | **Gyu-ri Bang** | Sweet Nurse | A dedicated nurse for whom Yuman starts to feel less like a patient and more like a man. |
 
-## 🚀 Getting Started
+## 🎮 Ways to Play
 
 ### Demo Version
 A free demo covering the full **Chapter 1** of the game is available on Steam. It's a great way to experience the story's pace and core mechanics.
 
 **Download the Demo:** [Five Hearts Under One Roof 2 Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
-### System Requirements
+### Full Version on Steam
+Get the complete experience with all chapters and features by purchasing the full version directly from Steam.
+
+### Download from Official Website (Recommended)
+For the best experience and direct access, download the game from our official website.
+
+**Download Here:** [fiveheartsunderoneroof2.com](https://fiveheartsunderoneroof2.com)
+
+## ⚙️ System Requirements
+
 | | Minimum | Recommended |
 |--|---------|-------------|
 | **OS** | Windows 10 | Windows 10/11 |
