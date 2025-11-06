@@ -30,20 +30,20 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 
 ## 🎮 Play Now
 
-### Demo Version
-A free demo covering the full **Chapter 1** of the game is available on Steam. It's a great way to experience the story's pace and core mechanics.
+### Official Website Download (Recommended)
+Get the game directly from our official website for the best experience and fastest access.
 
-**Download the Demo:** [Five Hearts Under One Roof 2 Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+**Download:** [Five Hearts Under One Roof 2 Official Website](https://fiveheartsunderoneroof2.com)
+
+### Free Demo on Steam
+Try the complete **Chapter 1** for free on Steam. Perfect for experiencing the story and core gameplay mechanics before getting the full version.
+
+**Download Demo:** [Five Hearts Under One Roof 2 Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
 ### Full Version on Steam
-Get the complete experience with all chapters and features by purchasing the full version directly from Steam.
+Purchase the complete game with all chapters and features directly from the Steam platform.
 
-**Download the Full Version:** [Five Hearts Under One Roof 2 on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
-
-### Download from Official Website (Recommended)
-For the best experience and direct access, download the game from our official website.
-
-**Download Here:** [fiveheartsunderoneroof2.com](https://fiveheartsunderoneroof2.com)
+**Get Full Version:** [Five Hearts Under One Roof 2 on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
 ## ⚙️ System Requirements
 
@@ -72,7 +72,7 @@ For the best experience and direct access, download the game from our official w
 ## 🏆 Developer Information
 
 - **Developer:** Storytaco
-- **Release Date:** November 9, 2025
+- **Release Date:** November 10, 2025
 - **Platforms:** PC
 - **Genre:** Simulation, Casual, Visual Novel, Romance
 - **Mode:** Single-player
