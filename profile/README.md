@@ -28,7 +28,7 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 | **Yoo-jung Yang** | Quiet Wallflower | A girl scarred by past bullying, who finds it hard to face people until Yuman enters her life. |
 | **Gyu-ri Bang** | Sweet Nurse | A dedicated nurse for whom Yuman starts to feel less like a patient and more like a man. |
 
-## 🎮 Play Now
+## 🚀 Get the Game
 
 ### Official Website
 Get the game directly from our official website for the best experience and fastest access.
