@@ -28,7 +28,7 @@ Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a we
 | **Yoo-jung Yang** | Quiet Wallflower | A girl scarred by past bullying, who finds it hard to face people until Yuman enters her life. |
 | **Gyu-ri Bang** | Sweet Nurse | A dedicated nurse for whom Yuman starts to feel less like a patient and more like a man. |
 
-## 🎮 Ways to Play
+## 🎮 Play Now
 
 ### Demo Version
 A free demo covering the full **Chapter 1** of the game is available on Steam. It's a great way to experience the story's pace and core mechanics.
@@ -37,6 +37,8 @@ A free demo covering the full **Chapter 1** of the game is available on Steam. I
 
 ### Full Version on Steam
 Get the complete experience with all chapters and features by purchasing the full version directly from Steam.
+
+**Download the Full Version:** [Five Hearts Under One Roof 2 on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
 ### Download from Official Website (Recommended)
 For the best experience and direct access, download the game from our official website.
