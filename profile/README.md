@@ -1,128 +1,95 @@
-# Five Hearts Under One Roof 2 Game Download Free 
+# Five Hearts Under One Roof 2 (Season 2)
 
-### 🎮 Official Website  
-👉 https://fiveheartsunderoneroof2.com/
+![Five Hearts Under One Roof 2](https://via.placeholder.com/1920x600/FF6B8B/FFFFFF?text=Five+Hearts+Under+One+Roof+2+-+Official+Game+Banner)
 
-![Hero Screenshot](https://github.com/user-attachments/assets/XXXXXXXX)
+## 📖 Game Description
 
----
+**Five Hearts Under One Roof 2** is the highly anticipated sequel to the popular FMV (Full-Motion Video) romance simulation game. Step back into the shoes of Yuman and take on the role of a boarding house owner, where past memories and new emotions collide. Manage your relationships with six charming heroines—three returning favorites and three new faces—and shape your unique love story through the choices you make.
 
-## Introduction
+## ✨ Key Features
 
-**Five Hearts Under One Roof 2** (Season 2) is an upcoming interactive FMV (Full-Motion Video) romance simulation game developed by **Storytaco**.
+| Feature | Description |
+|---------|-------------|
+| **Immersive First-Person POV** | The entire game unfolds through Yuman's eyes, making you feel like the true owner of the boarding house. |
+| **Six Unique Heroines** | Interact with returning characters **Mal-sook**, **Gran**, and **Min-jung**, as well as new tenants **Yu-na**, **Yoo-jung**, and **Gyu-ri**. |
+| **Richer, Branching Storylines** | Experience expanded story branches and new bonus videos. Your choices significantly impact the narrative and lead to multiple endings. |
+| **New Strategic Item System** | Use a newly added item system to influence relationships and unlock new scenes and hidden choices. |
+| **High-Quality FMV** | Features even more natural acting and stunning visuals from the original video production team at **Milk Film**. |
 
-Following the success of the first season, the second entry expands the story with new routes, more decision-based consequences, and extended FMV sequences featuring professional actors.
+## 🎭 Meet the Heroines
 
-The game continues the journey of **Yuman**, a man whose quiet life becomes chaotic when multiple heroines begin living under one roof — and every decision impacts the outcome.
+| Character | Role | Description |
+|-----------|------|-------------|
+| **Mal-sook Go** | Childhood Friend of 20 Years | Yuman's one and only friend with perfect chemistry, now hiding a secret she can't share. |
+| **Gran Dong** | Workplace Supervisor | A workaholic boss who finds an unexpected source of enjoyment in watching Yuman. |
+| **Yu-na Jeong** | Wealthy Heiress | The carefree youngest daughter of a conglomerate family, who comes to "take responsibility" for Yuman. |
+| **Min-jung Park** | First Love | A former idol turned national sweetheart, who seeks refuge at the boarding house amidst a new scandal. |
+| **Yoo-jung Yang** | Quiet Wallflower | A girl scarred by past bullying, who finds it hard to face people until Yuman enters her life. |
+| **Gyu-ri Bang** | Sweet Nurse | A dedicated nurse for whom Yuman starts to feel less like a patient and more like a man. |
 
----
+## 🚀 Getting Started
 
-## What Is Five Hearts Under One Roof 2?
+### Demo Version
+A free demo covering the full **Chapter 1** of the game is available on Steam. It's a great way to experience the story's pace and core mechanics.
 
-Five Hearts Under One Roof 2 is a **choice-driven live-action game** where the player interacts with five heroines.  
-Every dialogue choice, emotional decision, and priority affects the relationships — leading to multiple endings.
+**Download the Demo:** [Five Hearts Under One Roof 2 Demo on Steam](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
 
-📌 Genre: Romance / Interactive Movie / FMV Simulation  
-📌 Perspective: First-Person (FPV)  
-📌 Developer: Storytaco  
+### System Requirements
+| | Minimum | Recommended |
+|--|---------|-------------|
+| **OS** | Windows 10 | Windows 10/11 |
+| **Processor** | Intel Core i3 | Intel Core i5 or AMD equivalent |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | Discrete graphics card | Discrete graphics card |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 15 GB available space | 15 GB available space |
 
----
+## 📸 Screenshots
 
-## 🎮 Play Now
+![Gameplay Screenshot 1](https://via.placeholder.com/800x450/3498db/FFFFFF?text=Gameplay+Screenshot+1)
+*Caption: Immersive first-person perspective*
 
-### 👉 [Visit Official Website](https://fiveheartsunderoneroof.com/)
-*(Game downloads, APK, and platform links available on the site.)*
+![Gameplay Screenshot 2](https://via.placeholder.com/800x450/e74c3c/FFFFFF?text=Gameplay+Screenshot+2)
+*Caption: Interactive dialogue choices*
 
-![Promo Screenshot](https://github.com/user-attachments/assets/YYYYYYYY)
+![Gameplay Screenshot 3](https://via.placeholder.com/800x450/2ecc71/FFFFFF?text=Gameplay+Screenshot+3)
+*Caption: Character relationship management*
 
----
+## 🔗 Official Links
 
-## Why Players Love the Game
+- **🌐 Official Website:** [Five Hearts Under One Roof](https://fiveheartsunderoneroof.com/)
+- **🎮 Steam Store Page:** [Add to your wishlist here](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
+- **📱 Publisher Page:** [Storytaco on STOVE Store](https://store.onstove.com/en/games/102149)
+- **🎬 Production Team:** [Milk Film YouTube Channel](https://www.youtube.com/@MilkFilm)
 
-| Reason                     | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| 🎥 Film-quality Acting    | Real actors and cinematic production.                                       |
-| ❤️ Meaningful Choices     | Your decisions influence relationship paths and endings.                    |
-| 🌍 Multilingual Support   | English, Korean, Simplified Chinese and additional languages planned.       |
-| 🔀 Replay Value           | Multiple endings and unique heroine routes.                                 |
+## 🏆 Developer Information
 
----
+- **Developer:** Storytaco
+- **Release Date:** November 9, 2025
+- **Platforms:** Steam (PC)
+- **Genre:** Simulation, Casual, Visual Novel, Romance
+- **Mode:** Single-player
 
-## Characters (Heroines)
+## ⚠️ Additional Information
 
-| Character        | Description                          |
-|------------------|--------------------------------------|
-| **Mal-sook Go**  | Loyal childhood friend of 20 years.  |
-| **Min-jung Park**| First love and former idol singer.   |
-| **Gran Dong**    | Ambitious and strict company boss.   |
-| **Eun-bi Go**    | Bold, unpredictable younger girl.    |
-| **Seung-yi Jo**  | Quiet and introverted shut-in.       |
+- **Mature Content Description:** The game may contain content such as partial nudity, sexual content, and alcohol use, making it suitable for a mature audience.
+- **Community:** The game's FMV sequences are produced in collaboration with the Korean YouTube channel **Milk Film**.
+- **Language Support:** Expected to support multiple languages including English, Korean, and Simplified Chinese.
 
----
+## ❓ Frequently Asked Questions
 
-## Platforms
+**Q: Is this a direct sequel to the first game?**  
+A: Yes, it continues the story from the first game with returning characters and new heroines.
 
-| Platform | Availability |
-|----------|-------------|
-| **PC (Steam)** | ✅ Season 1 available / Season 2 page upcoming |
-| **Android APK** | ✅ Via official website |
-| **iOS** | Planned |
-| **Steam Demo** | Available for Season 1 |
+**Q: When is the expected release date?**  
+A: The game is scheduled for release on November 9, 2025.
 
----
+**Q: Can I play the demo now?**  
+A: Yes, a free demo covering Chapter 1 is available on Steam.
 
-## How to Play
-
-1. Download via the official website or Steam.
-2. Launch the game and start Season 2 campaign.
-3. Choose your responses and build relationships.
-4. Unlock hidden scenes, endings, and bonus video content.
-
----
-
-## Features
-
-- 🎬 Full live-action video cinematics  
-- ❤️ First-person view romance simulation  
-- ✅ Multiple possible endings  
-- 🗂️ Route selection / choice-driven story  
-- 🗣️ Professional actors and cast  
-
-![Screen Showcase](https://github.com/user-attachments/assets/ZZZZZZZZ)
-
----
-
-## FAQs
-
-| Question | Answer |
-|----------|--------|
-| **Who developed the game?** | Storytaco |
-| **Is this the official sequel?** | Yes, Season 2 continues the story from Season 1. |
-| **Is it free?** | A demo or free version may be available depending on platform. |
-| **Is streaming/YouTube allowed?** | Yes, streaming is allowed. |
-| **Multiple endings?** | Yes — choices impact outcomes across all heroines. |
+**Q: Will my choices from the first game carry over?**  
+A: This information will be updated closer to release. Please follow official channels for updates.
 
 ---
 
-## Download & Links
-
-🔗 Official Website:  
-https://fiveheartsunderoneroof.com/
-
-🔗 Steam Page (Season 1):  
-https://store.steampowered.com/app/3021100/
-
-🔗 Steam Demo:  
-https://store.steampowered.com/app/3166530/
-
----
-
-## Conclusion
-
-**Five Hearts Under One Roof 2** elevates the FMV romance genre with deeper storytelling, cinematic visuals, and emotional player-driven decision-making.
-
-If you enjoy visual novels, live-action storytelling, and character-driven games — this one is worth looking forward to.
-
-> _Stay tuned for development updates on the official site._
-
-### 🎮 https://fiveheartsunderoneroof.com/
+*This README is for organizational and informational purposes only. All game content, art, and trademarks are the property of their respective owners including Storytaco and Milk Film.*
