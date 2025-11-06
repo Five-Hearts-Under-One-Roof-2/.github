@@ -68,15 +68,3 @@ Purchase the complete game with all chapters and features directly from the Stea
 
 - **🌐 Official Website:** [Five Hearts Under One Roof 2](https://fiveheartsunderoneroof2.com/)
 - **🎮 Steam Store Page:** [Add to your wishlist here](https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/)
-
-## 🏆 Developer Information
-
-- **Developer:** Storytaco
-- **Release Date:** November 10, 2025
-- **Platforms:** PC
-- **Genre:** Simulation, Casual, Visual Novel, Romance
-- **Mode:** Single-player
-
----
-
-*This README is for organizational and informational purposes only. All game content, art, and trademarks are the property of their respective owners including Storytaco and Milk Film.*
